@@ -5,7 +5,7 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 100vh;
+	min-height: 100vh;
 	flex-direction: column;
 	position: relative;
 	background-image: url('https://profile-card-comp-sol.netlify.app/assets/images/bg-pattern-top.svg'), url('https://profile-card-comp-sol.netlify.app/assets/images/bg-pattern-bottom.svg');
